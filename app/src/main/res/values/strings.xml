@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="edit">Edit</string>
+    <string name="font">Font</string>
+    <string name="navigate">Navigate</string>
+    <string name="bold">B</string>
+    <string name="italic">I</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="add_text">Add Text</string>
+    <string name="_0">0</string>
+</resources>
